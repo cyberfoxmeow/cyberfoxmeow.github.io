@@ -53,3 +53,8 @@ https://www.icourse163.org/cert/viewCourse.htm?certNo=V216437000002#/verifyResul
 
 https://courses.edx.org/certificates/afa6a49f07354648bcc973e2b64ca13f
 
+
+
+## Advanced C++ Programming
+
+https://www.xuetangx.com/mb/check-certificate/f6017b0e42d111ebbe480242c0a83104
