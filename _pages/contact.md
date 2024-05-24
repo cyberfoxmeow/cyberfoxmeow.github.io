@@ -11,5 +11,5 @@ redirect_from:
 
 yangdi@eurecom.fr
 
-(And for your top secret projects GPG key ID [0x19E79DC3893942EE](https://keys.openpgp.org/search?q=yangdi%40eurecom.fr){:target="_blank"})
+(And for your top secret projects: [0x19E79DC3893942EE](https://keys.openpgp.org/search?q=yangdi%40eurecom.fr){:target="_blank"})
 
