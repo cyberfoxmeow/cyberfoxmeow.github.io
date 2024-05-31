@@ -33,5 +33,5 @@ Certifications
 * Security+ (CompTIA)
 * CC (ISC2)
 * Associate of ISC2 
-* ITIL4 Fondation (Axelos)
+* ITIL4 Foundation (Axelos)
 * Dark Web Foundation S-DWF (SECO-Institute)
